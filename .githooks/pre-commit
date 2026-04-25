@@ -1,0 +1,42 @@
+#!/bin/sh
+# 簡体字中国語チェック
+# 日本語の正字と異なるコードポイントを持つ簡体字を検出する
+
+PATTERN="优|实|际|应|势|继|处|对|获|设|们|这|来|说|过|发|问|从|样|与|现"
+
+# ステージ済みの.mdファイルのみ対象
+FILES=$(git diff --cached --name-only --diff-filter=ACM | grep '\.md$')
+
+if [ -z "$FILES" ]; then
+  exit 0
+fi
+
+FOUND=0
+for FILE in $FILES; do
+  # ファイルのステージ済み内容を検索
+  MATCHES=$(git show ":$FILE" 2>/dev/null | grep -nP "$PATTERN")
+  if [ -n "$MATCHES" ]; then
+    if [ $FOUND -eq 0 ]; then
+      echo "⚠️  簡体字中国語が検出されました:"
+    fi
+    echo ""
+    echo "  📄 $FILE"
+    echo "$MATCHES" | while IFS= read -r line; do
+      echo "     $line"
+    done
+    FOUND=1
+  fi
+done
+
+if [ $FOUND -eq 1 ]; then
+  echo ""
+  echo "  対応表: 优→優 / 实→実 / 际→際 / 应→応 / 势→勢"
+  echo "          继→継 / 处→処 / 对→対 / 获→獲 / 设→設"
+  echo ""
+  echo "  修正してから再度コミットしてください。"
+  echo "  ※スキップする場合: git commit --no-verify"
+  echo ""
+  exit 1
+fi
+
+exit 0

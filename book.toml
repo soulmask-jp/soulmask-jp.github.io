@@ -1,0 +1,22 @@
+[book]
+title = "Soulmask 日本語攻略まとめ"
+description = "Soulmask（ソウルマスク）の日本語攻略まとめ。部族管理・マスクシステム・武器・Shifting Sands DLC攻略など、1.0最新情報を日本語で解説。"
+authors = ["soulmask-jp"]
+language = "ja"
+src = "."
+
+[build]
+build-dir = "book"
+
+[output.html]
+default-theme = "navy"
+preferred-dark-theme = "navy"
+no-section-label = false
+site-url = "/"
+# 独自ドメイン: https://soulmask.gameguidejp.com/
+additional-css = ["theme/custom.css"]
+additional-js = ["theme/analytics.js", "theme/kofi.js", "theme/pagefind.js", "theme/footer.js"]
+
+[output.html.fold]
+enable = true
+level = 99
