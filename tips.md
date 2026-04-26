@@ -35,5 +35,5 @@
 ### 9. マルチプレイはソロより格段に楽
 特にボス攻略や大型拠点の建設はマルチプレイで協力すると難易度が大幅に下がります。フレンドがいれば協力プレイを試みましょう。
 
-### 10. 「情報収集中」の箇所は英語Wikiへ
-本サイトで「情報収集中」と記載している箇所は、[FextraLife Wiki](https://soulmask.wiki.fextralife.com/Soulmask_Wiki)や[英語DLC Wiki](https://soulmaskshiftingsands.wiki/)で詳細が確認できます。
+### 10. 英語Wikiも合わせて確認する
+さらに詳しい情報は[FextraLife Wiki](https://soulmask.wiki.fextralife.com/Soulmask_Wiki)（本編）や[Shifting Sands Wiki](https://soulmaskshiftingsands.wiki/)（DLC）で確認できます。アイテム・スキル・ボスのドロップ情報など詳細なデータが充実しています。
