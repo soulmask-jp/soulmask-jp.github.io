@@ -2,7 +2,7 @@
 
 * [トップページ](README.md)
 
-## Shifting Sands DLC 無料配布中
+## Shifting Sands DLC
 
 * [Shifting Sands 概要](shifting-sands/README.md)
   * [エジプトマップ](shifting-sands/egypt-map.md)
@@ -62,5 +62,6 @@
 
 ## その他
 
+* [パッチノート](patch-notes.md)
 * [情報源一覧](sources.md)
 * [更新履歴](changelog.md)

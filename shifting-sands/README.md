@@ -2,11 +2,11 @@
 
 > 📌 情報源: [Steamストア（DLC）](https://store.steampowered.com/app/3966020/Soulmask_Shifting_Sands/) / [PC Gamer](https://www.pcgamer.com/games/survival-crafting/soulmask-egyptian-massive-dlc-shifting-sands-base-building-quuland-games/) / [soulmaskshiftingsands.wiki](https://soulmaskshiftingsands.wiki/)
 
-## 🏺 無料配布期間: 2026年4月10日〜5月10日
+## 🏺 無料配布は2026年5月10日（UTC）で終了
 
-**Soulmask本体を所有していれば、2026年5月10日まで無料でダウンロード可能です。**
+**配布期間（2026年4月10日〜5月10日）中に Steam ライブラリに追加したアカウントは恒久所持となり、引き続きプレイ可能です。**期間後に新規入手する場合は通常価格（$19.99）での購入になります。
 
-[Steam DLCページで入手する](https://store.steampowered.com/app/3966020/Soulmask_Shifting_Sands/)
+[Steam DLCページ](https://store.steampowered.com/app/3966020/Soulmask_Shifting_Sands/)
 
 ---
 
@@ -17,7 +17,7 @@
 | 項目 | 内容 |
 |------|------|
 | リリース日 | 2026年4月10日 |
-| 無料配布期間 | 2026年4月10日〜5月10日 |
+| 無料配布期間 | 2026年4月10日〜5月10日（**終了済み**。期間中取得者は恒久所持） |
 | 通常価格 | $19.99 |
 | マップ規模 | 本体と同サイズ |
 

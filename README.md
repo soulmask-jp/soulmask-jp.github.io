@@ -4,9 +4,9 @@
 
 ---
 
-## 🏺 Shifting Sands DLC 無料配布中（〜2026-05-10）
+## 🏺 Shifting Sands DLC
 
-エジプトマップ追加DLC「Shifting Sands」が**2026年5月10日まで無料**で入手できます。本体（Soulmask）を所有していれば無料でダウンロード可能。
+エジプトマップ追加DLC「Shifting Sands」が 2026年4月10日に配信されました。**2026年5月10日（UTC）までの本体所有者向け無料配布は終了済み**で、現在は通常価格（$19.99）での販売です。配布期間中に Steam ライブラリに追加したアカウントは恒久所持となります。
 
 - [Shifting Sands 概要](shifting-sands/README.md)
 - [エジプトマップ](shifting-sands/egypt-map.md)
@@ -23,7 +23,7 @@
 - プラットフォーム: PC（Steam）
 - Early Access開始: 2024年5月
 - 正式リリース（1.0）: 2026年4月10日
-- DLC「Shifting Sands」リリース: 2026年4月10日（5月10日まで無料）
+- DLC「Shifting Sands」リリース: 2026年4月10日（本体所有者向け無料配布は 2026年5月10日 UTC で終了）
 - マルチプレイ: オンラインCo-op / LANプレイ / 公式サーバー対応
 
 ---
